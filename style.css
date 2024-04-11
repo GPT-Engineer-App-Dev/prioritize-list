@@ -1,0 +1,5 @@
+/* Custom checkbox style */
+.checkbox:checked + .todo-text {
+  text-decoration: line-through;
+  color: #888;
+}
